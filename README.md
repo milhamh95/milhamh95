@@ -1,7 +1,7 @@
 <h1 align='center'> Halo 👋, I'm Muhammad Ilham Hidayat </h1>
 
 <p align="center">
-  <img src="https://github.com/milhamhidayat/milhamhidayat/blob/master/img/go.png">
+  <img src="https://github.com/milhamh95/milhamh95/blob/master/img/go.png">
   <br><br>
   <a href="https://www.linkedin.com/in/milhamhidayat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/milhamh95"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
