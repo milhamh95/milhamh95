@@ -15,9 +15,9 @@ Nice to meet you. I'm ilham, a software engineer from Indonesia 🇮🇩. I'm cu
 
 ## About Me
 
-- 👀  I have deuteranopia (red - green color blindness).
-- 👍  Interestingly, my favorite color is red and blue.
-- 🧠  Learning how to scale an app, DevOps culture and the tools.
-- ❗  Always test your code. If I push code without tests, then I'm not confident with my codes.
-- Dark mode fanatic 🕶.
-- 👉  Love playing  🎮  video games and  📖  reading books.
+- 👀    I have deuteranopia (red - green color blindness).
+- 👍    Interestingly, my favorite color is red and blue.
+- 🧠    Learning how to scale an app, DevOps culture and the tools.
+- ❗    Always test your code. If I push code without tests, then I'm not confident with my codes.
+- Dark mode fanatic  🕶.
+- 👉    Love playing  🎮   video games and   📖  reading books.
