@@ -20,4 +20,4 @@ Nice to meet you. I'm ilham, a software engineer from Indonesia 🇮🇩. I'm cu
 - 🧠  Learning how to scale an app, DevOps culture and the tools.
 - ❗  Always test your code. If I push code without tests, then I'm not confident with my codes.
 - Dark mode fanatic 🕶.
-- 👉  Love playing 🎮  video games and 📖 reading books.
+- 👉  Love playing  🎮  video games and  📖  reading books.
