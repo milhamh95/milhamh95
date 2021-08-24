@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/milhamh95/milhamh95/blob/master/img/go.png">
   <br><br>
-  <a href="milhamh95.bio.link"><img src="https://img.shields.io/badge/Contact-2962FF?style=for-the-badge&logoColor=white"></a>
+  <a href="https://milhamh95.bio.link/"><img src="https://img.shields.io/badge/Contact-2962FF?style=for-the-badge&logoColor=white"></a>
   <hr>
 </p>
 
