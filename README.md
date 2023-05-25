@@ -8,7 +8,17 @@
 </p>
 
 <p align="justify">
-Nice to meet you. I'm ilham, a software engineer from Indonesia 🇮🇩. I'm currently working at one of the e-wallet startup in Indonesia as a backend developer. Technologies I enjoy working with includes Go and Docker.
+Go slow 🚗 to go fast 🏎️
+
+It means that going slow is investing in the things that matter long term and that take time to develop, so that I can move quickly and become successful over the long haul.
+
+However, there are instances where urgency and quick action are required.
+
+Hello, i'm ilham 👋.  Currently I'm working at Hijra to bring sharia-compliant financial technology solutions.
+
+Experienced in developing and maintaining backend application API and API integrations using Modular Monolith, Microservices, and Event Driven.
+
+In my spare time, I love to exercise and learning new things (software engineering, personal development).
 </p>
 
 ## ⚙️ Programming Languages
@@ -45,8 +55,4 @@ Nice to meet you. I'm ilham, a software engineer from Indonesia 🇮🇩. I'm cu
 
 - 👀 &nbsp; I have deuteranopia (red - green color blindness).
 - 👍 &nbsp; Interestingly, my favorite color is red and blue.
-- 🧠 &nbsp; Learning how to scale an app, DevOps culture and the tools.
-- ❗ &nbsp; Always test your code. If I push code without tests, then I'm not confident with my codes.
 - 🕶 &nbsp; Dark mode fanatic.
-- 👉 &nbsp; Love playing  &nbsp; 🎮  &nbsp; video games and  &nbsp; 📖 &nbsp; reading books.
-- 😌 &nbsp; Current hobbies are: collecting Mini 4WD and mechanical keyboards.
