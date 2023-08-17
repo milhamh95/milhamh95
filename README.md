@@ -18,7 +18,7 @@ Hello, i'm ilham 👋.  Currently I'm working at Hijra to bring sharia-compliant
 
 Experienced in developing and maintaining backend application API and API integrations using Modular Monolith, Microservices, and Event Driven.
 
-In my spare time, I love to exercise and learning new things (software engineering, personal development).
+In my spare time, I love to walking in the morning and learning new things (software engineering, personal development).
 </p>
 
 ## ⚙️ Programming Languages
