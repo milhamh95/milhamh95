@@ -12,13 +12,15 @@ Go slow 🚗 to go fast 🏎️
 
 It means that going slow is investing in the things that matter long term and that take time to develop, so that I can move quickly and become successful over the long haul.
 
-However, there are instances where urgency and quick action are required.
+🔥 However, there are moments when urgency and swift action are essential.
 
-Hello, i'm ilham 👋.  Currently I'm working at Hijra to bring sharia-compliant financial technology solutions.
+👋 Hi, i'm ilham.  Currently I'm working at Hijra to bring sharia-compliant financial technology solutions as a software engineer
 
-Experienced in developing and maintaining backend application API and API integrations using Modular Monolith, Microservices, and Event Driven.
+🛠️ Experienced in developing and maintaining backend application API and API integrations using Golang, Java, Modular Monolith, Microservices, and Event Driven.
 
-In my spare time, I love to walking in the morning and learning new things (software engineering, personal development).
+🌅 Outside the world of coding, I find inspiration during morning walks. I love learning new things as well (software engineering, personal development)
+
+🧠 Currently i'm learning functional programming, especially Elixir 👍.
 </p>
 
 ## ⚙️ Programming Languages
