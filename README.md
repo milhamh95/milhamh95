@@ -20,7 +20,7 @@ It means that going slow is investing in the things that matter long term and th
 
 🌅 Outside my work, I find inspiration during morning walks. I love learning new things as well (software engineering, personal development)
 
-🧠 Currently i'm learning functional programming, especially Elixir 👍.
+🧠 Currently I'm learning functional programming, especially Elixir 👍.
 </p>
 
 ## ⚙️ Programming Languages
