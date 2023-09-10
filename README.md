@@ -18,7 +18,7 @@ It means that going slow is investing in the things that matter long term and th
 
 🛠️ Experienced in developing and maintaining backend application API and API integrations using Golang, Java, Modular Monolith, Microservices, and Event Driven.
 
-🌅 Outside the world of coding, I find inspiration during morning walks. I love learning new things as well (software engineering, personal development)
+🌅 Outside my work, I find inspiration during morning walks. I love learning new things as well (software engineering, personal development)
 
 🧠 Currently i'm learning functional programming, especially Elixir 👍.
 </p>
