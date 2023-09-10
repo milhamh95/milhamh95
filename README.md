@@ -56,5 +56,6 @@ It means that going slow is investing in the things that matter long term and th
 ## 📖 About Me
 
 - 👀 &nbsp; I have deuteranopia (red - green color blindness).
-- 👍 &nbsp; Interestingly, my favorite color is red and blue.
+- 👍 &nbsp; My favorite color is red and blue.
 - 🕶 &nbsp; Dark mode fanatic.
+- 🏎️ &nbsp; Collecting Mini 4WD
